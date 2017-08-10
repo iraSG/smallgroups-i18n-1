@@ -1,0 +1,5 @@
+I'm sorry {{toName}}, but {{leaderName}} has declined your request to join {{group.name}} for the following reason:
+
+  {{reason}}
+
+The Smallgroups.church team

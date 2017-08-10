@@ -1,0 +1,5 @@
+{{churchName}} would like to add you as a small groups administrator on Smallgroups.church. To accept the invitation and create your account, please copy and paste the link below.
+
+  {{siteURL}}/create-admin-account
+
+The Smallgroups.church team

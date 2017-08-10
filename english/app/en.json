@@ -1,0 +1,961 @@
+{
+  "YES": "Yes",
+  "NO": "No",
+  "CANCEL": "Cancel",
+  "SUBMIT": "Submit",
+  "ENABLED": "Enabled",
+  "DISABLED": "Disabled",
+  "AND": "and",
+  "OR": "or",
+  "AT": "at",
+  "ARE-YOU-SURE": "Are you sure?",
+  "SWIPE-RIGHT": "Swipe right",
+  "VIEW": "View",
+  "CLOSE": "Close",
+  "SEND-MESSAGE": "Send Message",
+  "DOWNLOAD": "Download",
+  "EDIT": "Edit",
+  "DELETE": "Delete",
+  "UPDATE": "Update",
+  "REMOVE": "Remove",
+
+  "NAME": "Name",
+  "NAME-PLACEHOLDER": "Full Name",
+  "EMAIL": "Email",
+  "EMAIL-PLACEHOLDER": "Enter Email Address",
+  "EMAIL-OPT-PLACEHOLDER": "Optional Email",
+  "EMAIL-LONG": "Email Address",
+  "PHONE": "Phone",
+  "PHONE-OPT-PLACEHOLDER": "Optional Phone #",
+  "STATUS": "Status",
+
+  "INTERNET-ERROR": "There seems to be an error. Please check your internet connection and try again.",
+
+  "APP": {
+    "NAV": {
+      "HOME": "Home",
+      "SIGN-IN": "Log In",
+      "SIGN-UP": "Create Account",
+      "FIND": "Find a Group",
+      "CHURCH": {
+        "LINK-MAIN": "Church",
+        "LINK-QUICKSTART": "QuickStart Guide",
+        "LINK-DASHBOARD": "Church Dashboard",
+        "LINK-GROUPS": "Groups",
+        "LINK-LEADERS": "Group Leaders",
+        "LINK-MEMBERS": "Group Members",
+        "LINK-RESOURCES": "Resources",
+        "LINK-HELP": "Help",
+        "LINK-CREATE": "Create Church"
+      },
+      "GROUPS": {
+        "LINK-MAIN": "Groups",
+        "LINK-DASHBOARD": "Groups Dashboard",
+        "LINK-LIST": "My Groups",
+        "LINK-FIND": "Find a Group",
+        "LINK-CREATE": "Create a Group"
+      },
+      "ACCOUNT": {
+        "LINK-MAIN": "My Account",
+        "LINK-PROFILE": "Manage Profile",
+        "LINK-EMAIL-PREFS": "Email Preferences",
+        "LINK-VERIFY-EMAIL": "Verify Email Address",
+        "LINK-HOMECHURCH": "Your Church",
+        "LINK-LOGOUT": "Logout",
+        "LINK-LOGIN": "Log In",
+        "LINK-PASSWD": "Forgot Password",
+        "LINK-CREATE": "Create Account"
+      }
+    },
+    "FOOTER": {
+      "COPYRIGHT": "Copyright",
+      "ABOUT": {
+        "TITLE": "About Us",
+        "LINK-WHO": "Who are we",
+        "LINK-CONTACT": "Contact us",
+        "LINK-FAQ": "FAQ",
+        "LINK-TOS": "Terms of services",
+        "LINK-PRIVACY": "Privacy"
+      },
+      "CHURCH": {
+        "TITLE": "Church Leaders",
+        "LINK-WHY": "Why Smallgroups.church",
+        "LINK-PRICING": "Pricing",
+        "LINK-RESOURCES": "Leader Resources",
+        "LINK-HELP": "Help & Guides"
+      },
+      "ACCOUNT": {
+        "TITLE": "My Account",
+        "LINK-CHURCH": "My Church",
+        "LINK-GROUPS": "My Groups",
+        "LANGUAGE": "Language:"
+      }
+    }
+  },
+
+  "AUTH": {
+    "LOGIN": {
+      "TITLE": "Log in to Smallgroups",
+      "PASSWD": "Password",
+      "FORGOT-PASSWD": "Forgot Password?",
+      "SIGN-IN-BTN": "Sign In",
+      "NEED-ACCOUNT": "Don't have a Smallgroups account yet?",
+      "CREATE-ACCOUNT": "Create your account now",
+      "ERROR": "There was an error logging in. Please make sure your email address and password are correct, and that you are connected to the internet."
+    },
+    "CREATE": {
+      "TITLE": "Create a New Account",
+      "REGISTER-BTN": "Register",
+      "TOS-AGREE": "By signing up, you agree to our",
+      "TOS": "terms of services",
+      "PRIVACY": "privacy policy",
+      "ALREADY-REGISTERED": "Already have an account?",
+      "EXISTS-ERROR": "An account with this email address already exists. Please sign in instead.",
+      "CREATE-ERROR": "There was an error creating your account. Please make sure you've completed the form, and that you are connected to the internet."
+    },
+    "CREATE-LEADER": {
+      "TITLE": "You’ve been invited to be a small group leader!",
+      "PROMPT": "Your church wants you to have the awesome experience of building relationships with others. To make small groups easy, your church is using Smallgroups.church.",
+      "STEP1-TITLE": "Create Account",
+      "STEP1-MSG": "Sign up for a free Smallgroups.church account using the form on this page.",
+      "STEP2-TITLE": "Create Group",
+      "STEP2-MSG": "Include the who, what, when, where, and why. Your group will be approved by your church and will appear in the directory on Smallgroups.church.",
+      "STEP3-TITLE": "Invite Friends",
+      "STEP3-MSG": "Just tell them to go to Smallgroups.church and join from the directory. Spread the word through email, social media, or a good old-fashioned conversation."
+    },
+    "CREATE-ADMIN": {
+      "TITLE": "You’ve been invited to be an administrator for your church at Smallgroups.church!",
+      "PROMPT": "Administrators have special privileges to manage small groups. Get started now:",
+      "STEP1-TITLE": "Create Account",
+      "STEP1-MSG": "Sign up for a free Smallgroups.church account using the form on this page.",
+      "STEP2-TITLE": "My Church",
+      "STEP2-MSG": "The \"Church\" dashboard is where you can invite small group leaders, approve and manage groups, and view church metrics.",
+      "STEP3-TITLE": "My Groups",
+      "STEP3-MSG": "The \"Groups\" dashboard lets you create and manage the small groups you lead. Participants can view the group's details and roster."
+    },
+    "FORGOT": {
+      "TITLE": "Forgot Password",
+      "EMAIL-LINK-BTN": "Email Reset Link",
+      "RESET-EMAIL-SENT": "A password reset email has been sent.",
+      "RESET-EMAIL-ERROR": "There was an error resetting your password. Please make sure the email address you've entered is correct, and that you are connected to the internet."
+    },
+    "LOGGED-OUT": {
+      "TITLE": "You are Logged Out",
+      "MESSAGE": "You've been logged out of Smallgroups.church."
+    },
+    "LOGGED-IN": {
+      "TITLE": "Logged In",
+      "MESSAGE": "Hi {{name}}, you're already logged in. Click below to logout.",
+      "LOGOUT-BTN": "Log Out",
+      "LOGGING-IN": "Logging in..."
+    },
+    "RESET": {
+      "TITLE": "Reset Your Password",
+      "PROMPT": "Enter a new password.",
+      "SUBMIT-BTN": "Set Password",
+      "VALIDATING-TOKEN": "Validating reset link...",
+      "INVALID-TOKEN": "This link is invalid or has expired. Click the button below to request another password reset link.",
+      "REQUEST-RESET-TOKEN": "Reset Password",
+      "UPDATED-PROMPT": "Your password has been updated. Please click the button below to sign in."
+    },
+    "PASSWORD-ERROR": "Your password must be greater than 7 characters and less than 100 characters."
+  },
+
+  "GROUP": {
+    "NAME": "Name",
+    "LEADER": "Leader",
+    "WHO": "Who",
+    "WHAT": "What",
+    "AGES": "Ages",
+    "STATUS": "Status",
+    "SEARCH-NAME": "search by name",
+    "SEARCH-LEADER": "search by leader",
+    "SEARCH-WHO": "search by who",
+    "SEARCH-WHAT": "search by what",
+    "SEARCH-AGE": "search by age",
+    
+    "LEADERS": "Leader(s)",
+    "CATEGORY": "Category",
+    "FOR-AGES": "For Ages",
+    "DATETIME": "We Meet On",
+    "CHILDCARE": "Childcare?",
+    "ADDRESS": "Address",
+    "MAP-SHOW": "Show Map",
+    "MAP-HIDE": "Hide Map",
+    "MAP-NONE": "No map is available.",
+    "MAP-GROUP-ONLY": "Available only to group members",
+    "ROSTER": "Group Roster",
+    "IS-LEADER": "Is Leader?",
+    "REMOVE": "Remove",
+    "OWNER": "Group Owner",
+    "PENDING": "Pending",
+    "APPROVED": "Approved",
+    "DECLINED": "Declined",
+    "DISABLED": "Disabled",
+    "PENDING-MEMBER": "Pending Member Approval",
+    "APPROVE-MEMBER": "Approve Member",
+    "DECLINE-MEMBER": "Decline Member",
+    "DISABLE-MEMBER": "Disable Member",
+    "RESEND-EMAIL": "Resend Invitation Email",
+    "ROSTER-REMOVE-MEMBER-PROMPT": "You're attempting to remove this user from your group",
+    "YES-DELETE": "Yes, delete",
+    "NO-CANCEL": "No, cancel",
+    "WHY": "Why?",
+    "ROSTER-DECLINE-PROMPT": "Please let this person know why they are being declined membership.",
+    "ROSTER-STATUS-PAST-TOOLTIP": "You may not modify the status of a member in a past group.",
+    "ADD-NEW-MEMBER": "Add New Member",
+    "ADD-MEMBER-PROMPT": "Invite or manually add a new small group member.",
+    "ADD-MEMBER-EMAIL-PROMPT": "If you include an email address, the new member will receive an invitation to join this group.",
+    "CO-LEADER": "Co-leader?",
+    "ADD-MEMBER": "Add Member",
+    "EMAIL-EXISTS-ERROR": "This email address is already registered in your roster.",
+    "PENDING-APPROVAL": "Pending Approval",
+    "APPROVE-GROUP": "Approve Group",
+    "DECLINE-GROUP": "Decline Group",
+    "VISIBLE": "Visible in Directory?",
+    "STATUS-ADMIN-ONLY": "Your group's status is set by the small group's administrator at your church; you may not modify it.",
+    "UPDATE": "Update Group",
+    "MODIFY": "Modify Details",
+    "REASSIGN": "Reasign Ownership",
+    "TRANSFER-GROUP": "Transfer Group",
+    "TRANSFER-GROUP-PROMPT": "Transfer group to another leader?",
+    "TRANSFER-GROUP-P1A": "You're attempting to transfer the ownership of this group to another leader, however you cannot transfer it until you assign another leader to your group.",
+    "TRANSFER-GROUP-P1B": "Use the 'Add New Member' button in the Roster section to add a new co-leader to your group. <strong>Make sure you include the new leader's email address</strong> and an invitation will be sent to them. Upon confirmation by the new group leader, you will be able to transfer this group to them.",
+    "TRANSFER-GROUP-P2A": "You're attempting to transfer the ownership of this group to another leader, however you cannot transfer it until either 1) the new leader accepts their invitation, or 2) you assign a leader that has an email address and associated an Smallgroups.church account.",
+    "TRANSFER-GROUP-P2B": "Use the 'Add New Member' button in the Roster section to add a new co-leader to your group. <strong>Make sure you include the new leader's email address</strong> and an invitation will be sent to them. Upon confirmation by the new group leader, you will be able to transfer this group to them.",
+    "TRANSFER-GROUP-P3A": "You're attempting to transfer the ownership of this group to another leader. <strong>This action cannot be undone, and you will no longer be a member of this group!",
+    "TRANSFER-GROUP-P3B": "Select the group leader you would like to transfer to:",
+    "SELECT-LEADER": "(Select Leader)",
+    "LEADER-ACTIONS": "Leader Actions",
+    "NO-ACTIONS-PAST-GROUPS": "No actions are available for past groups.",
+    "INVITATION": {
+      "TITLE": "You've been invited to join this group!",
+      "BTN-ACCEPT": "Accept Invitation",
+      "BTN-DECLINE": "Decline Invitation"
+    },
+    "SHARE-FULLNAME": "Share my full name",
+    "HIDE-FULLNAME": "Hide my last name",
+    "SHARE-EMAIL": "Share my email address",
+    "HIDE-EMAIL": "Hide my email address",
+    "SHARE-PHONE-EMPTY": "Update phone in profile",
+    "SHARE-PHONE": "Share my phone #",
+    "HIDE-PHONE": "Hide my phone #"
+  },
+
+  "MY-ACCOUNT": {
+    "TITLE": "My Account",
+    "PROFILE": {
+      "TITLE": "Profile",
+      "INFO-TITLE": "Manage Profile",
+      "INFO-DESCRIPT": "Use the forms to the right to update your account profile.",
+      "MY-PROFILE": "My Profile",
+      "MY-PROFILE-DESCRIPT": "When you join a small group, these fields will also be shared with confirmed members of the group.",
+      "FIRST-NAME": "First Name",
+      "FIRST-NAME-REQD": "First Name is required",
+      "LAST-NAME": "Last Name",
+      "LAST-NAME-REQD": "Last Name is required",
+      "PHONE": "Phone Number",
+      "PHONE-PLACEHOLDER": "Optional Phone Number",
+      "PHONE-HELP": "(Updating your phone number will automatically update it for all of your groups where you've opted to share it.)",
+      "UPDATE-EMAIL-ADDRESS": "Update Email Address",
+      "EMAIL": "Email Address",
+      "EMAIL-HELP": "(Updating your email address will automatically update it for all of your groups where you've opted to share it.)",
+      "EMAIL-REQD": "Email Address is required",
+      "EMAIL-SUBMIT": "Update Email Address",
+      "CHANGE-PASSWD": "Change Password",
+      "CURRENT-PASSWD": "Current Password",
+      "CURRENT-PASSWD-REQD": "Current Password is required",
+      "NEW-PASSWD": "New Password",
+      "NEW-PASSWD-REQD": "New Password is required",
+      "PASSWD-SUBMIT": "Update Your Password"
+    },
+    "EMAIL": {
+      "TITLE": "Email Preferences",
+      "INFO-TITLE": "Adjust Email Preferences",
+      "INFO-DESCRIPT": "We do our best to only send email that matters to you.",
+      "CHURCH": {
+        "TITLE": "Church Administration",
+        "NEW": "New Group",
+        "NEW-SUB": "Get notified immediately when a new group is submitted for approval.",
+        "TRANS": "Group Transferred",
+        "TRANS-SUB": "We suspect you'll want to know if a group leader transfers their group to another leader.",
+        "LEADER": "New Group Leader",
+        "LEADER-SUB": "We want you to know all of your group leaders, so we'll notify you when a new leader is assigned to a group.",
+        "UPDATED": "Group Updated",
+        "UPDATED-SUB": "Whether it's correcting a misspelled word or a complete overhaul of the group's description and audience, we'll keep you informed."
+      },
+      "SITE": {
+        "TITLE": "Smallgroups.church",
+        "UPDATES-MAIN": "Website Updates",
+        "UPDATES-SUB": "We very rarely send email regarding the website, but occaisionally we'll inform you of new features and changes."
+      }
+    },
+    "EMAIL-VERIFY": {
+      "TITLE": "Verify Email Address",
+      "VALIDATING-TOKEN": "Validating email address...",
+      "INVALID-TOKEN": "This link is invalid or has expired. Click the button below to request another verification email to be sent."
+    },
+    "CHURCH": {
+      "SET-TITLE": "Set Your Home Church",
+      "SET-PROMPT": "Church members, please type the name of your church in the box below:",
+      "SET-LABEL": "Church Name:",
+      "SET-PLACEHOLDER": "Enter your church's name",
+      "SET-BTN-SELECT": "Select as my church",
+      "SET-NOT-FOUND": "Sorry, no churches by that name were found.",
+      "SET-CHURCH-SERVER-ERROR": "There was an error setting your home church. Please make sure you connected to the internet and try again.",
+      "SET-CHURCH-SERVER-SUCCESS": "Your home church has been updated.",
+      "MEMBERSHIPS-TITLE": "Your Church:",
+      "REMOVE-MEMBERSHIP": "You're attempting to remove your membership from this church.",
+      "REMOVE-YES": "Yes, remove",
+      "REMOVE-NO": "No, cancel",
+      "REMOVE-CHURCH-SERVER-ERROR": "There was an error removing your church. Please make sure you connected to the internet and try again.",
+      "REMOVE-CHURCH-SERVER-SUCCESS": "Your home church has been removed.",
+      "PASTOR-TITLE": "Are you the pastor?",
+      "PASTOR-PROMPT1": "If you are the pastor or small groups coordinator for your church,",
+      "PASTOR-PROMPT2": "and your church is not found in the list to the left, please click below to create your church."
+    }
+  },
+
+  "MY-GROUPS": {
+    "DASHBOARD": {
+      "TITLE": "Groups",
+      "MY-GROUPS": {
+        "TITLE": "My Groups",
+        "DESCRIPT": "View all of the groups you lead and/or participate in.",
+        "PENDING-ONE": "You have a pending group invitation waiting for your approval.",
+        "PENDING-MULTIPLE": "You have pending group invitations waiting for your approval.",
+        "BTN-VIEW": "View My Groups"
+      },
+      "DIRECTORY": {
+        "TITLE": "Groups Directory",
+        "DESCRIPT": "Filter and view the current groups listed for {{name}}.",
+        "BTN-VIEW": "Find a Group"
+      },
+      "CREATE": {
+        "TITLE": "Create a Group",
+        "DESCRIPT": "Ready to lead a group? Just complete this simple form and you'll be on your way.",
+        "BTN-VIEW": "Create a Group"
+      },
+      "PENDING": {
+        "TITLE": "You have pending group invitations.",
+        "P1": "In order to see them, you will need to confirm your email address.",
+        "BTN": "Send Verification Email"
+      }
+    },
+    "CREATE": {
+      "TITLE-CREATE": "Create a Small Group",
+      "TITLE-UPDATE": "Update Small Group",
+      "HOSTING-TITLE": "Hosting Your Own Group",
+      "HOSTING-DESCRIPT": "Hosting your own group is easy. Take a few minutes to complete this form, and upon approval, your group will be listed in the small groups directory.",
+      "HELP": "Need help with this form?",
+      "LINK-GUIDE": "View the Leader Guide",
+      "FORM-TITLE": "Complete this form to submit your group:",
+      "FORM-TITLE-EDIT": "Complete the following form to update this group:",
+      "FORM-SELECT-ONE": "(Select One)",
+      "FORM-SEMESTER-LABEL": "Semester",
+      "FORM-SEMESTER-REQD": "Semester is required",
+      "FORM-NAME-LABEL": "Group Name",
+      "FORM-NAME-REQD": "Group Name is required",
+      "FORM-DESCRIPT-LABEL": "Group Description",
+      "FORM-DESCRIPT-REQD": "Group Description is required",
+      "FORM-TIME-LABEL": "Time of Day",
+      "FORM-TIME-REQD": "Time of Day is required",
+      "FORM-DAY-LABEL": "Day of Week",
+      "FORM-DAY-REQD": "Day of Week is required",
+      "FORM-WHO-LABEL": "Who",
+      "FORM-WHO-SELECT": "(the main audience for your group)",
+      "FORM-WHO-REQD": "Who is your main audience?",
+      "FORM-WHAT-LABEL": "What",
+      "FORM-WHAT-SELECT": "(the focus of your group)",
+      "FORM-WHAT-REQD": "What is the primary focus for your group?",
+      "FORM-AGES-LABEL": "Ages",
+      "FORM-CHILDCARE-LABEL": "Is childcare provided?",
+      "FORM-VIEWABLE-LABEL": "Address viewable by",
+      "FORM-VIEWABLE-EVERYONE": "Everyone",
+      "FORM-VIEWABLE-MEMBERS": "Only approved group members",
+      "FORM-VISIBLE-LABEL": "Show your group in the public directory?",
+      "BTN-CREATE": "Create Group",
+      "BTN-UPDATE": "Update Group"
+    },
+    "LIST": {
+      "TITLE": "My Groups",
+      "TAB-CURRENT": "Current Groups",
+      "TAB-PAST": "Past Groups",
+      "NO-GROUPS-FOUND": "Oops, it appears you're not a member of any groups! Let's fix that by selecting one of the options below:"
+    }
+  },
+
+  "MY-CHURCH": {
+    "NAV": {
+      "DASHBOARD": "Church Dashboard",
+      "GROUPS": "Small Groups",
+      "LEADERS": "Group Leaders",
+      "MEMBERS": "Group Members",
+      "HELP": "Help",
+      "RESOURCES": "Church Resources"
+    },
+    "SEMESTERS": {
+      "ALL-ACTIVE": "All Active Semesters",
+      "ACTIVE-LABEL": "Active Semesters",
+      "ARCHIVED-LABEL": "Archived Semesters",
+      "PUBLIC-DATE": "Public Date",
+      "END-DATE": "End Date",
+      "ONGOING": "Ongoing"
+    },
+    "DASHBOARD": {
+      "TITLE": "Dashboard",
+      "VIEW-ALL": "View All",
+      "TOTAL-LEADERS": "Total Leaders",
+      "TOTAL-MEMBERS": "Total Members",
+      "TOTAL-GROUPS": "Total Groups",
+      "PENDING": "Pending",
+      "LISTED": "Listed in Directory",
+      "UNLISTED": "Unlisted",
+      "PENDING-GROUPS": "Pending Groups:"
+    },
+    "GROUPS": {
+      "TITLE": "Small Groups",
+      "APPROVE-GROUP": "Approve Group",
+      "APPROVE": "Approve:",
+      "ENCOURAGE": "Send a word of encouragment to the leader(s).",
+      "DECLINE-GROUP": "Decline Group",
+      "DECLINE-REASON": "Please let the leader(s) know why their group is being declined.",
+      "VISIBLE": "Visible",
+      "SEMESTER": "Semester",
+      "UPDATED-AT": "Updated At"
+    },
+    "LEADERS": {
+      "TITLE": "Group Leaders",
+      "GROUPS": "Groups",
+      "SEARCH-LEADER": "search by name",
+      "SEARCH-EMAIL": "search by email",
+      "SEARCH-PHONE": "search by phone",
+      "SEARCH-GROUP": "search by group name"
+    },
+    "MEMBERS": {
+      "TITLE": "Group Members"
+    },
+    "RESOURCES": {
+      "NAV": {
+        "QUICKSTART": "QuickStart Guide",
+        "REPORTS": "Church Reports",
+        "PROFILE": "Church Profile",
+        "ADMINS": "Church Administrators",
+        "FILTERS": "Group Filters",
+        "SEMESTERS": "Group Semesters",
+        "EXPORT": "Export Data"
+      },
+      "QUICKSTART": {
+        "TITLE": "QuickStart Guide",
+        "PROMPT": "Whether this is your first time setting up Smallgroups.church, or you're returning for another semester of groups, use the following blocks to quickly ensure you're ready to get going with your groups directory:",
+        "BOX1-HEADING": "Manage Church Administrators",
+        "BOX1-P": "You can add new church administrators to your account, as well as remove any existing administrator accounts.",
+        "BOX1-BTN": "Manage Administrators",
+        "BOX2-HEADING": "Set Up Group Semesters",
+        "BOX2-P": "Small group semesters provide an easy way to manage and gather statistics for your groups over time.",
+        "BOX2-BTN": "Manage Semesters",
+        "COPY-ME": "Copy me!",
+        "BOX3-HEADING": "Invite Small Group Leaders",
+        "BOX3-P1": "Any person with an account on Smallgroups.church that has associated their account with your church may create a small group. (You, of course, must approve the group before it shows up in your directory.)",
+        "BOX3-P2": "For new group leader sign ups, you may send them this link or post it to your website:",
+        "BOX4-HEADING": "Create a Group",
+        "BOX4-P1": "Are you leading a group?",
+        "BOX4-BTN": "Create Your Group",
+        "BOX4-P2": "You currently have {{groups}} available in your groups directory.",
+        "BOX5-HEADING": "Approve Small Groups",
+        "BOX5-P1": "Only groups that are approved by an administrator will appear in the groups directory.",
+        "BOX5-P2": "There are {{groups}} groups awaiting approval.",
+        "BOX5-BTN": "Manage Groups",
+        "BOX6-HEADING": "Share Your Small Groups",
+        "BOX6-P1": "The direct web address to your church's small groups listings is:",
+        "BOX6-P2": "If you would like to change your church's URL,",
+        "BOX6-CLICK-HERE": "click here",
+        "BOX6-P3": "Once you're ready to launch your small groups, start spreading the word. You're welcome to use one of our graphics below, or feel free to create your own.",
+        "COPY-URL": "Copy URL",
+        "DOWNLOAD": "Download"
+      },
+      "REPORTS": {
+        "RETURNING-SOON": "These features will be returning soon! We're sorry for the delay. In the meantime, please contact technical support (hello@smallgroups.church) for additional help.",
+        "TITLE": "Church Reports",
+        "VIEW": "View",
+        "OVERVIEW": {
+          "TITLE": "Small Groups",
+          "DESCRIPT": "Get insights into your groups with a high-level overview of your group's metrics – like who, what, when, and how many."
+        },
+        "PRINT": {
+          "TITLE": "Print Groups",
+          "DESCRIPT": "View a print-friendly format of your active small groups for use offline, like in a directory or to post on a buildboard."
+        }
+      },
+      "PROFILE": {
+        "CREATE": {
+          "TITLE": "Welcome to Smallgroups.church!",
+          "PROMPT": "Pick your plan and go ahead and create your church.",
+          "PASTORS": {
+            "TITLE": "Pastors / Coordinators",
+            "P1": "If you are not the pastor and/or small groups coordinator of your church, please go back and search for your church.",
+            "BTN": "Find My Church"
+          },
+          "PLAN": {
+            "TITLE": "Pick Your Plan",
+            "P1": "We now only offer one plan:",
+            "FREE-FOREVER": "Free Forever",
+            "PER-MONTH": "per month",
+            "F1": "Unlimited church members",
+            "F2": "Unlimited small groups",
+            "F3": "Public directory listings",
+            "F4": "100% free, forever"
+          },
+          "FORM": {
+            "TITLE": "Create Your Church",
+            "BTN": "Create Church"
+          }
+        },
+        "UPDATE": {
+          "FORM": {
+            "TITLE": "Church Profile",
+            "BTN": "Update Church Profile"
+          }
+        },
+        "FORM": {
+          "CREATE": {
+            "TITLE": "Create Your Church",
+            "BTN": "Create Church"
+          },
+          "UPDATE": {
+            "TITLE": "Church Profile",
+            "BTN": "Update Church Profile"
+          },
+          "NAME": {
+            "LABEL": "Church Name",
+            "REQD": "Church Name is required"
+          },
+          "SLUG": {
+            "LABEL": "Directory Address",
+            "REQD": "Directory Address is required"
+          },
+          "PHONE": {
+            "LABEL": "Phone",
+            "REQD": "Phone is required"
+          },
+          "FAX": {
+            "LABEL": "Fax"
+          },
+          "WEBSITE": {
+            "LABEL": "Website",
+            "REQD": "Website is required"
+          },
+          "CONTACTEMAIL": {
+            "LABEL": "Contact Email",
+            "HELP": "This email address will be used when church members complete the contact form on smallgroups.church (for non-technical requests), in addition to being used as the \"reply-to\" address when automated emails are sent by smallgroups.church",
+            "REQD": "Contact email is required"
+          }
+        },
+        "SERVER": {
+          "SLUG-CHECK": {
+            "INVALID": "This directory address is already in use.",
+            "ERROR": "There was an error checking your directory address. Please check your internet connection and try again."
+          },
+          "UPDATE": {
+            "VALID": "Your church profile was updated.",
+            "ERROR": "There was an error updating your profile. Please ensure you've completed all form fields, check your internet connection, and try again."
+          },
+          "CREATE": {
+            "VALID": "Your church profile has been created.",
+            "ERROR": "There was an error creating your church profile. Please ensure you've completed all form fields, check your internet connection, and try again."
+          }
+        }
+      },
+      "ADMINS": {
+        "TITLE": "Church Administrators",
+        "PROMPT": "Add your church administrators to your account, and remove existing administrator accounts.",
+        "FORM": {
+          "PROMPT": "Enter the email address of the user you would like to add as a church administrator:",
+          "EMAIL-PLACEHOLDER": "Enter Email Address",
+          "BTN": "Add New Administrator"
+        },
+        "STATUS": {
+          "TITLE": "Account Status",
+          "ACTIVE": "Active Account",
+          "SIGNUP": "Awaiting member sign up",
+          "RESEND": "Resend Invitation"
+        },
+        "REMOVE-PROMPT": "Are you sure you would like to remove this person from church administration?",
+        "SERVER": {
+          "ADD": {
+            "SUCCESS": "The new administrator has been added.",
+            "ERROR": "There was an error adding your new administrator. Please check your internet connection and try again."
+          },
+          "RESEND": {
+            "SUCCESS": "An invitation has been resent to the new administrator.",
+            "ERROR": "There was an error resending your invitation. Please check your internet connection and try again."
+          },
+          "REMOVE": {
+            "SUCCESS": "The administrator has been removed.",
+            "ERROR": "There was an error removing your administrator. Please check your internet connection and try again."
+          }
+        }
+      },
+      "SEMESTERS": {
+        "TITLE": "Group Semesters",
+        "EXPLANATIONS": {
+          "TITLE": "Semester Explanations",
+          "WHY": {
+            "TITLE": "Why semesters?",
+            "P1": "Small group semesters provide an easy way to manage and gather statistics for your groups over time.",
+            "P2": "Even if your church's small groups are not organized by semesters, you can think of these simply as time periods to organize your groups."
+          },
+          "USE": {
+            "TITLE": "How do I use semesters?",
+            "P1": "All churches start with an \"Ongoing\" semester that has no end date. However, you may remove the \"Ongoing\" semester if your church doesn't need it.",
+            "P2": "Pastors create a new semester with the start and end dates for their semester.",
+            "P3": "Group leaders choose the appropriate semester when they create their group listing. (Past semesters are hidden unless they're marked as \"Ongoing.\")"
+          },
+          "POST": {
+            "TITLE": "How can I post an announcement at the top of my directory?",
+            "P1": "Customize your \"Pinned Directory Message\" from the Group Semesters page.",
+            "P2": "This message will be publicly displayed in your small groups directory when you toggle the \"Show Message?\" to Yes."
+          },
+          "PINNED": {
+            "TITLE": "What can my pinned directory message include?",
+            "P1": "Anything you like! Use it as a call-to-action for potential new group leaders to create groups. Share information about upcoming trainings or semester launch dates."
+          },
+          "END": {
+            "TITLE": "What happens at the end of the semester?",
+            "P1": "Small groups will automatically be archived and removed from the public directory and archived upon the date you choose as the \"Semester End Date.\" We'll send you a reminder to set up your next small group semester as the current semester end approaches."
+          },
+          "DELETE": {
+            "TITLE": "Should I delete past groups?",
+            "P1": "Nope! We highly encourage you to never delete your old groups since they are automatically archived. You can use the previous semester/group information to refer back to track growth and help inform small group areas of focus moving forward. Deleting the groups impacts your metrics over time."
+          }
+        },
+        "MESSAGE": {
+          "TITLE": "Pinned Directory Message",
+          "P1": "Use this form to add a customized message in your public groups directory.",
+          "P2": "For example, when between semesters this is a good place to let visitors know when the next semester will begin as well as to encourage them to consider leading a group.",
+          "FORM": {
+            "SHOW": "Show Message?",
+            "TITLE": "Title",
+            "MESSAGE": "Message"
+          },
+          "SERVER": {
+            "SUCCESS": "Your pinned directory message was updated successfully.",
+            "ERROR": "There was an error updating your pinned directory message. Please check your internet connection and try again."
+          }
+        },
+        "CURRENT": {
+          "TITLE": "Current Semesters",
+          "PUBLIC-DATE": "Public Date:",
+          "END-DATE": "End Date:",
+          "ONGOING": "Ongoing?",
+          "REMOVE": "Remove",
+          "REMOVE-SEMESTER-PROMPT": "You are attempting to remove this semester. If there are any groups still associated with it, they will become \"lost\" and, therefore, should be reassigned now. (Go to the 'Small Groups' link above, switch to this semester, and ensure there are no groups tied to it.) This cannot be undone!",
+          "SERVER": {
+            "REMOVE": {
+              "SUCCESS": "The semester has been removed.",
+              "ERROR": "There was an error removing this semester. Please check your internet connection and try again."
+            },
+            "UPDATE": {
+              "SUCCESS": "The semester has been updated.",
+              "ERROR": "There was an error updating this semester. Please check your internet connection and try again."
+            }
+          }
+        },
+        "NEW": {
+          "TITLE": "Create a New Semester",
+          "PROMPT": "Add your next small group semester.",
+          "NAME": "Semester Name",
+          "PUBLIC-DATE": "Semester Public Date",
+          "END-DATE": "Semester End Date",
+          "ONGOING": "Is this semester ongoing?",
+          "CREATE-BTN": "Create Semester",
+          "SERVER": {
+            "SUCCESS": "Your new semester has been created.",
+            "ERROR": "There was an error creating your new semester. Please check your internet connection and try again."
+          }
+        }
+      },
+      "FILTERS": {
+        "TITLE": "Group Filters",
+        "PROMPT": "The following are lists of the primary filters used to categorize your church's small groups. These filters are also used in the public directory to help narrow the search of groups.",
+        "LABEL": "Filter Label",
+        "REMOVE-FILTER-PROMPT": "You are attempting to remove this filter. If there are any groups still associated with it, they will become \"lost\" and, therefore, should be reassigned now. (Go to the 'Small Groups' link above, and ensure there are no groups associated with this group filter.) This cannot be undone!",
+        "WHO": {
+          "TITLE": "Who"
+        },
+        "WHAT": {
+          "TITLE": "What"
+        },
+        "WHEN": {
+          "TITLE": "When"
+        },
+        "AGES": {
+          "TITLE": "Ages"
+        },
+        "SERVER": {
+          "UPDATE": {
+            "SUCCESS": "Your filter has been updated.",
+            "ERROR": "There was an error updating your filter. Please check your internet connection and try again."
+          },
+          "REMOVE": {
+            "SUCCESS": "Your filter was removed.",
+            "ERROR": "There was an error removing your filter. Please check your internet connection and try again."
+          },
+          "CREATE": {
+            "SUCCESS": "Your filter has been created.",
+            "ERROR": "There was an error creating your filter. Please check your internet connection and try again."
+          }
+        }
+      },
+      "EXPORT": {
+        "TITLE": "Export Church Data",
+        "PROMPT": "Download a CSV file that you may use in your favorite spreadsheet application — e.g., Microsoft Excel, Google Docs.",
+        "GROUPS": {
+          "TITLE": "Small Groups",
+          "DESCRIPT": "Download all of your small groups information.",
+          "INCLUDES": "Includes: Semester, Group name, Description, Who, What, Ages, Childcare Provided, City, State, Zip, Address Viewable, Time of Day, Day of Week, Status, Visible in directory, Created, and Primary Leader's Name, email address, and phone number."
+        },
+        "LEADERS": {
+          "TITLE": "Group Leaders",
+          "DESCRIPT": "Download all of your current group leaders information.",
+          "INCLUDES": "Includes: Leader ID, Manual Addition, Leader Name, Leader Email address, Leader Phone Number, Membership Date, and Groups Leading."
+        },
+        "MEMBERS": {
+          "TITLE": "Group Members",
+          "DESCRIPT": "Download all of your current group members information.",
+          "INCLUDES": "Includes: Member ID, Manual Addition, Member Name, Member Email address, Member Phone Number, Membership Date, and Groups Attending."
+        }
+      }
+    }
+  },
+
+  "DIRECTORY": {
+    "FILTERS": {
+      "GROUPS-FOUND": "Groups Found",
+      "DAY": "Any Day",
+      "WHO": "Who",
+      "WHAT": "What",
+      "AGE": "Any Age",
+      "CHILDCARE-NO": "No Childcare",
+      "CHILDCARE-YES": "Yes Childcare",
+      "ZIP": "Zip Code",
+      "ZIP-WITHIN": "within zip code"
+    },
+    "LIST": {
+      "INTERESTED": "I'm Interested",
+      "CONTACT": "Contact Leader",
+      "CONTACT-TITLE": "Contact Leader",
+      "CONTACT-FROM": "From:",
+      "CONTACT-NAME-HELP": "Your name is required",
+      "CONTACT-EMAIL-HELP": "Your email address is required",
+      "CONTACT-MSG-TITLE": "Message:",
+      "CONTACT-MSG": "Hi, I have a question about your group, {{name}}.",
+      "CONTACT-MSG-HELP": "Your contact message is required",
+      "CONTACT-SENT": "Your contact message has been sent.",
+      "JOIN-TITLE": "One more step:",
+      "JOIN-PROMPT": "What information do you want to share with the members of {{name}}?",
+      "JOIN-PRIVATE-EMAIL": "Private – only the group leader will see your email",
+      "JOIN-PRIVATE-PHONE": "Private – only the group leader will see your phone number",
+      "JOIN-BTN": "Join Group!",
+      "JOIN-SENT": "Your request to join has been sent."
+    },
+    "SERVER-ERROR-NO-CHURCH": "There was no church found for this web address."
+  },
+
+  "GENERAL": {
+    "FIND-GROUPS": {
+      "HERO-MAIN": "Search for small groups",
+      "HERO-SUB": "Get connected with your church’s group directory",
+      "HERO-PLACEHOLDER": "What's the name of your church?",
+      "VIEW-GROUPS": "View Groups",
+      "HERO-PROMPT": "Type the name of your church above to get started."
+    }
+  },
+
+  "ADDRESS-FORM": {
+    "ADDRESS-LABEL": "Address",
+    "PLACE-LABEL": "Place Name",
+    "PLACE-PLACEHOLDER": "Starbucks, Our House",
+    "PLACE-REQD": "Place Name is required",
+    "ADDR1-LABEL": "Address Line 1",
+    "ADDR1-PLACEHOLDER": "Street address, P.O. box, company name, c/o",
+    "ADDR1-REQD": "Address Line 1 is required",
+    "ADDR2-LABEL": "Address Line 2",
+    "ADDR2-PLACEHOLDER": "Apartment, suite, unit, building, floor, etc.",
+    "CITY-LABEL": "City",
+    "CITY-REQD": "City is required",
+    "STATE-LABEL": "State/Province/Region",
+    "STATE-REQD": "State/Province/Region is required",
+    "ZIP-LABEL": "Zip",
+    "ZIP-REQD": "Zip is required",
+    "COUNTRY-LABEL": "Country",
+    "MAP-DRAG-PIN": "Drag the map pin to manually position it.",
+    "MAP-RESET-PIN": "Reset pin to address automatically."
+  },
+
+  "CONTACT": {
+    "TITLE": "Contact Us",
+    "PROMPT": "We’d love to hear from you.",
+    "YOUR-NAME": "Your name",
+    "YOUR-EMAIL": "Your email",
+    "YOUR-MESSAGE": "Your message",
+    "SEND-BTN": "Send Message",
+    "ENGLISH": "Please note, support requests must be made in English. If you're a non-English speaker, please contact your local church.",
+    "OTHER-WAYS": "Other ways to reach us",
+    "READY": "Ready to launch small groups at your church?",
+    "READY-BTN": "Learn More",
+    "SERVER-SUCCESS": "Your contact message has been sent."
+  },
+
+  "HOME": {
+    "HERO": {
+      "TITLE": "Manage small groups online – for free",
+      "SUBTITLE": "Pastor more effectively with online small group management",
+      "ACTION-BTN": "Create my free account",
+      "ACTION-LEARN-MORE": "Learn more below"
+    },
+    "HOW": {
+      "TITLE": "How can Smallgroups.church help you?",
+      "SUBTITLE": "Join hundreds of pastors and small groups coordinators who manage their small groups with Smallgroups.church."
+    },
+    "FEATURE1": {
+      "TITLE": "Build a simple, beautiful online directory",
+      "P1": "Leaders add their groups, and church members can search easily with maps and filters.",
+      "QUOTE": "",
+      "QUOTER": "",
+      "SCREENSHOT": "(Screenshot: Small groups directory)"
+    },
+    "FEATURE2": {
+      "TITLE": "Empower leaders to care for their own group members",
+      "P1": "Small group leaders manage their own group listings and rosters. They can take ownership over their group instead of relying on staff members.",
+      "QUOTE": "",
+      "QUOTER": "",
+      "SCREENSHOT": "(Screenshot: Leaders manage their own groups)"
+    },
+    "FEATURE3": {
+      "TITLE": "Use data to keep your small groups ministry healthy",
+      "P1": "Easy-to-use reports help you see participation and trends over time.",
+      "QUOTE": "",
+      "QUOTER": "",
+      "SCREENSHOTA": "(Screenshot: Church small groups dashboard)",
+      "SCREENSHOTB": "(Screenshot: Church semester snapshot report)"
+    },
+    "QUESTIONS": {
+      "TITLE": "Still have questions?",
+      "BTN": "Browse the FAQ",
+      "SIGN-UP": "sign up now"
+    },
+    "SAYING": {
+      "TITLE": "What are pastors and staff saying?",
+      "Q1": {
+        "QUOTE": "Eventually, we’d like to see everybody at our church in a small group. We see that more people find freedom if they’re in a group and we feel they’re the best way for people to get connected and stay connected.",
+        "NAME": "Melton Weaver",
+        "TITLE": "Connections Director, Our Savior’s Church"
+      },
+      "Q2": {
+        "QUOTE": "Quote2",
+        "NAME": "Melton Weaver",
+        "TITLE": "Connections Director, Our Savior’s Church"
+      },
+      "Q3": {
+        "QUOTE": "Quote3",
+        "NAME": "Melton Weaver",
+        "TITLE": "Connections Director, Our Savior’s Church"
+      }
+    },
+    "WHO": {
+      "TITLE": "Who else is using Smallgroups.church?",
+      "LOOKING": "Looking for a specific church?",
+      "LOOKING-LINK1": "Find it here",
+      "LOOKING-LINK2": "get in touch"
+    },
+    "GET-STARTED-BTN": "Create Your Free Account Now!"
+  },
+
+  "ABOUT-US": {
+    "TITLE": "Lives are changed in the context of relationships.",
+    "P1": "We believe that healthy relationships provide the catalyst for spiritual growth, healing, and fulfillment. As Christians, we are called to walk together in community.",
+    "P2": "Church small groups can be authentic, fun, and welcoming. But if churches do not prioritize small groups, church members and attendees may never get into life-changing relationships with other believers.",
+    "P3": "Small groups also provide a way to pastor and care for church members. When members are open and real with one another, they can come together in crisis through prayer and meeting practical needs.",
+    "TEAM": "Meet the team",
+    "CO-FOUNDER": "Co-Founder",
+    "CO-FOUNDERS": "Co-Founders"
+  },
+
+  "FAQ": {
+    "TITLE": "Frequently Asked Questions",
+    "P1A": "New around here? Take a look at our most common questions. If you still have questions,",
+    "P1B": "contact us here.",
+    "Q1": {
+      "QUEST": "How does Smallgroups.church work?",
+      "ANS1": "Smallgroups.church is a small groups management system and online directory. Pastors and/or coordinators invite  group leaders to create accounts, then leaders create their own groups — which are approved or declined by administrators. Church members may browse the directory and (optionally) sign up for groups. Our reporting data gives you an overview of the health of your small groups ministry while taking away much of the legwork of actually managing them."
+    },
+    "Q2": {
+      "QUEST": "Is this service actually free to use?",
+      "ANS1": "Yes! As we launched Smallgroups.church, we felt that God was calling us to give it away for no cost. Now we can help more local churches have successful small groups!"
+    },
+    "Q3": {
+      "QUEST": "Is there a catch?",
+      "ANS1": "Nope. We may offer premium services in the future, but you will be included in the \"Free Forever\" plan. No features will ever be taken away and bundled into a premium offering if they have ever been previously free to use.",
+      "ANS2A": "We've also considered incorporating vetted, Christian-specific advertisements into the website and/or emails. Should we do this, rest assured we will be 100% transparent, provide the ability to opt-out, and",
+      "ANS2B": "we will never sell or otherwise share any personally-identifiable data."
+    },
+    "Q4": {
+      "QUEST": "Can I create the groups, or does the group leader have to do it?",
+      "ANS1": "You can do it either way, though we highly encourage you to empower your group leaders to create their own groups.",
+      "ANS2": "If you create the group for your leaders, then you can invite the group leader to be a co-leader of the group. Once they sign-up, you'll have the option to transfer the group to them.",
+      "ANS3": "But, we have found that you will get more \"buy in\" if the group leaders create their own groups. They'll feel a sense of ownership over their group, and as you grow, you'll be glad you're only having to approve the group, not enter all the details for tens or hundreds of groups."
+    },
+    "Q5": {
+      "QUEST": "Does each group leader need to have administrative privileges?",
+      "ANS1": "No, once a group leader creates his/her account and small group, they will have all the priviliges they need to manage their group."
+    },
+    "Q6": {
+      "QUEST": "We have a lot of different ministries, not just small groups. Can I customize Smallgroups.church?",
+      "ANS1": "Sure, we encourage it! Our filters include broad definitions for who, what, when, and age, all of which can be customized to your specific church's requirements."
+    },
+    "Q7": {
+      "QUEST": "Do you support multiple campuses?",
+      "ANS1A": "Yes, simply use the",
+      "ANS1B": "create church",
+      "ANS1C": "form to create as many campuses as you need."
+    },
+    "Q8": {
+      "QUEST": "Where do I go from here?",
+      "ANS1A": "First,",
+      "ANS1B": "create your account",
+      "ANS1C": "if you've not already done so.",
+      "ANS2A": "Then",
+      "ANS2B": "create your church,",
+      "ANS3A": "and follow the",
+      "ANS3B": "QuickStart Guide",
+      "ANS3C": "to get up-and-running."
+    }
+  },
+
+  "API": {
+    "ERROR": {
+      "INVALID": "Your request is invalid. If problems persist, please contact tech-support."
+    },
+    "SUCCESS": {
+      "GROUP": {
+        "UPDATED": "The group has been updated.",
+        "CREATED": "Your group has been created.",
+        "INVITATION-RESENT": "Your group invitation has been resent.",
+        "TRANSFERRED": "Your group has been transfered and you are no longer a member.",
+        "INVITATION-ACCEPTED": "Invitation accepted.",
+        "INVITATION-DECLINED": "Invitation declined.",
+        "SHARED-INFO-UPDATED": "Shared information updated."
+      },
+      "PROFILE": {
+        "UPDATED": "Your profile has been updated.",
+        "EMAIL-UPDATED": "Your email address has been updated.",
+        "PASS-CHANGED": "Your password has been changed.",
+        "PREFS-UPDATED": "Email preference updated.",
+        "EMAIL-VERIFY-SENT": "Email verification sent.",
+        "EMAIL-VERIFIED": "Your email address has been verified.",
+        "EMAIL-VERIFY-ERROR": "There was an error verifying your email address."
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+Hi {{toName}}, {{leaderName}} has transfered the following group to {{newLeaderName}} {{newLeaderEmail}}:
+
+  {{group.name}}
+  
+  {{group.descript}}
+
+  Who: {{group.who}}
+  What: {{group.what}}
+  Church Campus: {{group.campus}}
+
+The Smallgroups.church team

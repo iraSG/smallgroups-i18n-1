@@ -1,0 +1,11 @@
+Hi {{toName}}, {{fromName}} has submitted the following group for approval. Please visist {{siteURL}} to view the group and approve/deny it.
+
+  {{group.name}}
+  
+  {{group.descript}}
+
+  Who: {{group.who}}
+  What: {{group.what}}
+  Church Campus: {{group.campus}}
+
+The Smallgroups.church team

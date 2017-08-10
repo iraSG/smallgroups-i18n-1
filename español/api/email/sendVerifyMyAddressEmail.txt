@@ -1,0 +1,5 @@
+Hi {{toName}}, to verify your email address, simply copy and paste the link below.
+
+{{resetLink}}
+
+Thanks, the Smallgroups.church team

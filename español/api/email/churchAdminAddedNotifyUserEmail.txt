@@ -1,0 +1,7 @@
+Hi {{toName}}, you’ve been added as a church administrator for {{churchName}} at Smallgroups.church.
+
+You can:
+  Approve and manage groups ({{siteURL}}/church/dashboard)
+  Create your own groups ({{siteURL}}/groups-create)
+
+The Smallgroups.church team

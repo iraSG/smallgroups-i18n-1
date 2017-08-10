@@ -1,0 +1,3 @@
+Hi {{toName}}, this is a confirmation to let you know your email address for Smallgroups.church has been changed from {{oldEmail}} to {{newEmail}}. 
+
+No action is necessary.

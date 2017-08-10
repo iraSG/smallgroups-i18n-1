@@ -1,0 +1,17 @@
+{{breaklines message}}
+
+  {{group.name}}
+  
+  {{group.descript}}
+
+  Who: {{group.who}}
+  What: {{group.what}}
+  Church Campus: {{group.campus}}
+
+{{#if approved}}
+Next steps:
+
+  - Pray for the people who will come. Pray that God will use you in a powerful way as you lead.
+  - Invite your friends, neighbors, coworkers, and strangers to join your group. Don’t just expect people to show up -- they often need a personal invitation.
+  - Be ready when your group launches. Preparing shows your group members that you care about them.
+{{/if}}

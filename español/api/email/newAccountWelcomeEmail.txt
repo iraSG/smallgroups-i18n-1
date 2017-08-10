@@ -1,0 +1,14 @@
+Welcome {{toName}}!
+
+You've just taken an important step towards building better relationships through small groups. Now, use Smallgroups.church to search for and create small groups.
+
+  Search for Groups » {{siteURL}}/find
+  Easily find groups at your church. Narrow groups down by men, women, and more.
+
+  Create a Group » {{siteURL}}/groups/create
+  Want to be a leader? It only takes two minutes to create your own group.
+
+  If you are a pastor or small group administrator, add your church. » {{siteURL}}/create-church
+
+We’re excited to help you grow through small groups!
+The Smallgroups.church team

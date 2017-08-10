@@ -1,0 +1,11 @@
+Hi {{toName}}, {{leaderName}} added {{newLeaderName}} {{newLeaderEmail}} as a leader to the group:
+
+  {{group.name}}
+  
+  {{group.descript}}
+
+  Who: {{group.who}}
+  What: {{group.what}}
+  Church Campus: {{group.campus}}
+
+The Smallgroups.church team

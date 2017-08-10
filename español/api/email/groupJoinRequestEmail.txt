@@ -1,0 +1,10 @@
+Hi {{toName}}, {{fromName}} is interested in joining your group:
+
+  {{group.name}}
+  
+  {{group.descript}}
+
+  Who: {{group.who}}
+  What: {{group.what}}
+
+The Smallgroups.church team

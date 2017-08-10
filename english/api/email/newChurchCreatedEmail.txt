@@ -1,0 +1,8 @@
+Hi {{toName}}, you’ve created {{churchName}} at Smallgroups.church.
+
+Your next steps:
+  Familiarize yourself with your church dashboard ({{siteURL}}/church)
+  Look over the QuickStart Guide ({{siteURL}}/church/resources)
+
+Simply reply to this email if you have any questions!
+The Smallgroups.church team
