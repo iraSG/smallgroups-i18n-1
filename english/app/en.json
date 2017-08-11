@@ -20,8 +20,8 @@
   "REMOVE": "Remove",
 
   "NAME": "Name",
-  "NAME-PLACEHOLDER": "Full Name",
-  "EMAIL": "Email",
+  "NAME-PLACEHOLDER": "Fullname",
+  "EMAIL": "Emial",
   "EMAIL-PLACEHOLDER": "Enter Email Address",
   "EMAIL-OPT-PLACEHOLDER": "Optional Email",
   "EMAIL-LONG": "Email Address",
